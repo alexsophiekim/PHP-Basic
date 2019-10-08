@@ -26,7 +26,7 @@
       </pre>
 
       <?php
-      // Shorter way - new version
+      // Shorter way - new version PHP 5.4 
         $array = [1,2,3];
        ?>
   </body>

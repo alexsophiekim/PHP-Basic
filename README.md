@@ -30,3 +30,4 @@
 * Continue
 * Break
 * Array Pointers
+* functions(Define, arguments, return, scope)

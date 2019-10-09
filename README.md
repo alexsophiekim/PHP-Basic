@@ -3,9 +3,9 @@
 ### PHP (Hypertext Preprocessor) - server side language
 
  ```sh
- <?php
-   // code here
-  ?>
+<?php
+  // code here
+?>
  ```
 ---
 ### Contents
